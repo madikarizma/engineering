@@ -4,6 +4,7 @@
 
 ### Setting up your local development environment
 
+* Install Git
 * [Configure connecting to GitHub with SSH](onboarding/github-ssh.md)
 * [Configure Git](onboarding/configure-git.md)
 * [Install your preferred IDE](onboarding/install-ide.md)
