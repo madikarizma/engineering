@@ -15,7 +15,7 @@ When installing on a new macOS machine, you may receive the following message:
 => Create one of them and run this script again
 ```
 
-This is because these files do not exist by default. Since macOS 10.15, the default shell is `zsh` and nvm will look for `.zshrc` to update. Therefore, adding `~/.zshrc` is the best option. To add this file, run the commany `touch ~/.zshrc` and run the nvm install script again.
+This is because these files do not exist by default. Since macOS 10.15, the default shell is `zsh` and nvm will look for `.zshrc` to update. Therefore, adding `~/.zshrc` is the best option. To add this file, run the command `touch ~/.zshrc` and run the nvm install script again.
 
 Once the script has finished executing, `~/.zshrc` should containt the following:
 
